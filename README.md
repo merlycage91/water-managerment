@@ -1,15 +1,15 @@
-# water-managerment
-我想很难有一个学科像水利一样，涉及到如此多的其他行业。
-在我学习和从事水利工作的14年过程中，至少接触了以下这些行业：
-1.气象（关于降水的预测和分析）；
-2.地质（地下水，河流地貌的发育和演变等）；
-3.工程（大坝、堤防、输水隧洞、引水渠）；
-4.环境（排污的影响，污水的处理）；
-5.数学（层流、湍流，流体力学，统计）；
-6.政治（跨市、省或者国家河流的水量分配）；
-7.生态（河道生态流量、大坝鱼道设计）；
-8.农业（农业需水，农田灌溉）；
-9.城市建设（给排水设计）；
-10.防灾（如何应对洪涝和干旱灾害）；
-11.运输（港口、航道建设和管理）；
-12.能源（水力发电、抽水蓄能建设）。
+# water-management
+I think it is difficult to there is another subject that involves so many other profession as water management.
+During my 14 years of studying and working in water conservancy, I have been exposed to at least the following subjects:
+1. Meteorology (prediction and analysis of precipitation);
+2. Geology (development and evolution of groundwater, river landforms, etc.);
+3. Engineering (dams, embankments, water conveyance tunnels, diversion canals);
+4. Environment (impact of sewage discharge, sewage treatment);
+5. Mathematics (laminar flow, turbulent flow, fluid mechanics, statistics);
+6. Politics (water distribution across municipalities, provinces or national rivers);
+7. Ecology (river ecological flow, dam fishway design);
+8. Agriculture (agricultural water needs, farmland irrigation);
+9. Urban construction (water supply and drainage design);
+10. Disaster prevention (how to deal with floods and droughts);
+11. Transportation (port、waterway construction and management);
+12. Energy (hydroelectric power generation, pumped storage construction).
